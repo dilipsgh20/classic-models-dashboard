@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard.png)
 ## Classic Models Sales Dashboard
 
 ### Tools Used
